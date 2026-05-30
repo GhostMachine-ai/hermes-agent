@@ -1,0 +1,47 @@
+[
+  {
+    "sku": "SVC-ONBOARD-001",
+    "name": "Onboarding & Setup",
+    "unit": "per project",
+    "cogs": 800,
+    "list_price": 2500,
+    "floor_price": 1750,
+    "active": true
+  },
+  {
+    "sku": "SVC-RETAINER-MO",
+    "name": "Monthly Retainer — Standard",
+    "unit": "per month",
+    "cogs": 1200,
+    "list_price": 3500,
+    "floor_price": 2400,
+    "active": true
+  },
+  {
+    "sku": "SVC-RETAINER-PRO",
+    "name": "Monthly Retainer — Pro",
+    "unit": "per month",
+    "cogs": 2200,
+    "list_price": 6000,
+    "floor_price": 4000,
+    "active": true
+  },
+  {
+    "sku": "SVC-ADHOC-HR",
+    "name": "Ad-hoc Work — Hourly",
+    "unit": "per hour",
+    "cogs": 75,
+    "list_price": 225,
+    "floor_price": 150,
+    "active": true
+  },
+  {
+    "sku": "LIC-PLATFORM-SEAT",
+    "name": "Platform License",
+    "unit": "per seat/month",
+    "cogs": 18,
+    "list_price": 49,
+    "floor_price": 35,
+    "active": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "_schema": {
+    "lead_id": "string — matches filename in leads/ (e.g. LEAD-0001)",
+    "date": "YYYY-MM-DD",
+    "channel": "email | phone | linkedin | meeting | other",
+    "summary": "string — brief description of the outreach",
+    "outcome": "responded | no-response | bounced | meeting-booked | objection | closed",
+    "next_due": "YYYY-MM-DD — date to follow up next"
+  },
+  "entries": []
+}
