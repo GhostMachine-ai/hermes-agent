@@ -1,0 +1,52 @@
+[
+  {
+    "id": "INV-2026-001",
+    "customer": "Acme Corp",
+    "amount": 3500,
+    "issue_date": "2026-05-01",
+    "due_date": "2026-05-31",
+    "status": "open",
+    "days_outstanding": 29,
+    "contact": "jane.doe@acme.com"
+  },
+  {
+    "id": "INV-2026-002",
+    "customer": "Bright Industries",
+    "amount": 6000,
+    "issue_date": "2026-04-15",
+    "due_date": "2026-05-15",
+    "status": "overdue",
+    "days_outstanding": 45,
+    "contact": "billing@bright.io"
+  },
+  {
+    "id": "INV-2026-003",
+    "customer": "Cascade Solutions",
+    "amount": 2500,
+    "issue_date": "2026-03-01",
+    "due_date": "2026-03-31",
+    "status": "overdue",
+    "days_outstanding": 90,
+    "contact": "ap@cascade.solutions"
+  },
+  {
+    "id": "INV-2026-004",
+    "customer": "Delta Partners",
+    "amount": 12000,
+    "issue_date": "2026-05-20",
+    "due_date": "2026-06-19",
+    "status": "open",
+    "days_outstanding": 10,
+    "contact": "finance@deltapartners.com"
+  },
+  {
+    "id": "INV-2026-005",
+    "customer": "Echo Ventures",
+    "amount": 1750,
+    "issue_date": "2026-02-01",
+    "due_date": "2026-03-01",
+    "status": "collections",
+    "days_outstanding": 120,
+    "contact": "cfo@echoventures.com"
+  }
+]
